@@ -132,12 +132,7 @@ a:visited {
   display: block;
   height: 400px;
 }
-#Mohammad-Daylaki-cover {
-    background-image: url("http://i.imgur.com/IwhJNZ7.jpg");
-  }
 
-#Mohammad-Daylaki-card {
-    background-image: url("http://i.imgur.com/yys0GA6.jpg");
   }
 #joe-burgess-card {
   background-image: url("../assets/img/joe-burgess.jpeg");
@@ -146,7 +141,13 @@ a:visited {
 #joe-burgess-cover {
   background-image: url("../assets/img/joe-burgess-cover.png");
 }
+#Mohammad-Daylaki-cover {
+    background-image: url("http://i.imgur.com/IwhJNZ7.jpg");
+  }
 
+#Mohammad-Daylaki-card {
+    background-image: url("http://i.imgur.com/yys0GA6.jpg");
+  }
 #avi-flombaum-card {
   background-image: url("../assets/img/avi-flombaum.jpg");
 }
@@ -225,7 +226,7 @@ a:visited {
 
 .profile-banner {
   height: 410px;
-  background-image: url("../assets/img/banner-photo-placeholder.png");
+  background-image: url("../assets/img/19509.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -252,7 +253,7 @@ a:visited {
 }
 
 .profile-photo {
-  background-image: url("../assets/img/profile-photo-placeholder.png");
+  background-image: url("../assets/img/cover.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
