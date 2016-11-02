@@ -133,7 +133,10 @@ a:visited {
   height: 400px;
 }
 
+<<<<<<< HEAD
   }
+=======
+>>>>>>> 043828f9eaaaf20c2650d8b4158d68df96ffd3b8
 #joe-burgess-card {
   background-image: url("../assets/img/joe-burgess.jpeg");
 }
@@ -141,6 +144,7 @@ a:visited {
 #joe-burgess-cover {
   background-image: url("../assets/img/joe-burgess-cover.png");
 }
+<<<<<<< HEAD
 #Mohammad-Daylaki-cover {
     background-image: url("http://i.imgur.com/IwhJNZ7.jpg");
   }
@@ -148,6 +152,9 @@ a:visited {
 #Mohammad-Daylaki-card {
     background-image: url("http://i.imgur.com/yys0GA6.jpg");
   }
+=======
+
+>>>>>>> 043828f9eaaaf20c2650d8b4158d68df96ffd3b8
 #avi-flombaum-card {
   background-image: url("../assets/img/avi-flombaum.jpg");
 }
@@ -226,7 +233,11 @@ a:visited {
 
 .profile-banner {
   height: 410px;
+<<<<<<< HEAD
   background-image: url("../assets/img/19509.png");
+=======
+  background-image: url("../assets/img/banner-photo-placeholder.png");
+>>>>>>> 043828f9eaaaf20c2650d8b4158d68df96ffd3b8
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -253,7 +264,11 @@ a:visited {
 }
 
 .profile-photo {
+<<<<<<< HEAD
   background-image: url("../assets/img/cover.jpg");
+=======
+  background-image: url("../assets/img/profile-photo-placeholder.png");
+>>>>>>> 043828f9eaaaf20c2650d8b4158d68df96ffd3b8
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
